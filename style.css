@@ -10,7 +10,7 @@
 }
 
 .image {
-    background-image: url(./Media/teste.png);
+    background-image:linear-gradient(to bottom right, #6c5ce7, #25204e);
     background-position: center;
     background-size: cover;
     width: 50%;
